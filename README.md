@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/hasansajedi/pythonandaws/actions/workflows/devops.yml/badge.svg)](https://github.com/hasansajedi/pythonandaws/actions/workflows/devops.yml)
+
 # Python with AWS
 Microservices with Python and AWS
 
