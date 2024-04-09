@@ -10,3 +10,4 @@ Microservices with Python and AWS
 2. Create empty files
 3. Populate `Makefile`
 4. Setup Continuous Integration, i.e. check code for issues like lint errors
+5. Build CLI using Python fire library `./cli-fire.py --help`
